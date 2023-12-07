@@ -1,0 +1,28 @@
+{
+  "name": "vve-theme",
+  "version": "1.0.0",
+  "description": "检测项目主题代码情况",
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "bin": {
+    "vve-theme-cli": "./bin/index.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CcLittleWhite/vve-theme.git"
+  },
+  "keywords": [
+    "vve",
+    "theme"
+  ],
+  "author": "chenchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CcLittleWhite/vve-theme/issues"
+  },
+  "homepage": "https://github.com/CcLittleWhite/vve-theme#readme"
+}
